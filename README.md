@@ -1,1 +1,1 @@
-# how-to-qutip-4-pi3
+# how to: qutip for PI3
