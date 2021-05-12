@@ -12,3 +12,7 @@ Cloning the repository:
 2. navigate to you directory with: cd your_directory
 3. git clone 'https://github.com/jonasmeinel/how-to-qutip-4-pi3.git'
 
+How-to qutip contends:
+
+1. presentations as pdf
+2. example notebooks in examples
